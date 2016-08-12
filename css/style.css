@@ -1,0 +1,80 @@
+body, html {
+    background-color: #FAFAFA;
+    font-family: 'MicrosoftYaHei', 'Helvetica', 'Arial', sans-serif!important;
+}
+.demo-card-square {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.demo-card-square.mdl-card {
+    max-width: 320px;
+    /*height: 320px;*/
+}
+.demo-card-square> .mdl-card__title {
+    color: #fff;
+    background: url('../image/search.png') bottom right 15% no-repeat #03a9f4;
+    height: 150px;
+}
+.mdl-card__actions {
+    text-align: center;
+}
+#info {
+    margin: 0;
+    line-height: 0;
+    padding: 0;
+    position: absolute;
+}
+#show {
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+table {
+    width: 100%;
+}
+table td, table th {}
+.mdl-data-table td {
+    padding: 6px 8px;
+}
+.mdl-data-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    white-space: normal;
+}
+.mdl-data-table th {
+    background: #eee;
+}
+tr {
+    transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    /* Firefox 4 */
+    -webkit-transition: all 0.3s;
+    /* Safari 和 Chrome */
+    -o-transition: all 0.3s;
+    /* Opera */
+}
+tr:hover {
+    background-color: #eee;
+}
+.fail {
+    color: red;
+}
+.distinction {
+    color: green;
+}
+#profile {
+    padding: 18px;
+    color: #525252;
+    font-size: 20px;
+    /*background-color: #fff;*/
+    /*border: 1px solid rgba(0,0,0,.12);*/
+}
+.gpa {
+    color: #fff;
+    width: 140px;
+    padding: 16px;
+    display: block;
+    margin: 0 auto;
+    background-color: #6495ed;
+}
