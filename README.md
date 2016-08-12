@@ -6,8 +6,11 @@
 
 #插件支持
 -[Jquery](http://jquery.com/)
+
 -[Material Design Lite](https://getmdl.io/)
+
 -[PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
+
 -[Chart.js](http://www.chartjs.org/)
 
 #主要特性
