@@ -1,12 +1,13 @@
 # school-report-card
 广西科技大学查成绩系统
 
-[演示地址](http://qq597914752.gotoip1.com/app/transcript/)
+[演示地址](https://pingxonline.com/app/transcript/) https://pingxonline.com/app/transcript/
 
 #数据来源
 柳苑晨曦
 
 #插件支持
+
 -[Jquery](http://jquery.com/)
 
 -[Material Design Lite](https://getmdl.io/)
